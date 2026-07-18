@@ -55,18 +55,19 @@ minedensity/
 
 特别感谢 OpenDesign 平台提供如此强大且经济实惠的设计工具，使得个人开发者也能轻松创建出专业级别的 UI 设计作品。
 
-## 许可证
-
-MIT License
-
----
-
 ## Star History
 
 <a href="https://www.star-history.com/?repos=EVEDensity%2Fopen-design-Test&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=EVEDensity/open-design-Test&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=EVEDensity/open-design-Test&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=EVEDensity/open-design-Test&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=EVEDensity/open-design-Test&type=date&theme=dark&legend=top-left&sealed_token=4g8XlYhXdt8tV8Jf0iobruXpQ0tUXjpoRAtM7g2vJD3SUuFstdWJz_-FCUqjimiMpVeunEtdETe6RJO-s-Vl9uhvk7sfUU2SCI5KkHdx4dWkOfVJL3WShqaXsHX0VrVxOhfcdAm-X7yFbR0-WBynf-l3m6g_-F4RWT_CVtpb_JGeJvRdB1X58OMGUomF" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=EVEDensity/open-design-Test&type=date&legend=top-left&sealed_token=4g8XlYhXdt8tV8Jf0iobruXpQ0tUXjpoRAtM7g2vJD3SUuFstdWJz_-FCUqjimiMpVeunEtdETe6RJO-s-Vl9uhvk7sfUU2SCI5KkHdx4dWkOfVJL3WShqaXsHX0VrVxOhfcdAm-X7yFbR0-WBynf-l3m6g_-F4RWT_CVtpb_JGeJvRdB1X58OMGUomF" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=EVEDensity/open-design-Test&type=date&legend=top-left&sealed_token=4g8XlYhXdt8tV8Jf0iobruXpQ0tUXjpoRAtM7g2vJD3SUuFstdWJz_-FCUqjimiMpVeunEtdETe6RJO-s-Vl9uhvk7sfUU2SCI5KkHdx4dWkOfVJL3WShqaXsHX0VrVxOhfcdAm-X7yFbR0-WBynf-l3m6g_-F4RWT_CVtpb_JGeJvRdB1X58OMGUomF" />
  </picture>
 </a>
+
+---
+
+## 许可证
+
+MIT License
+
